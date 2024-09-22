@@ -1,1 +1,1 @@
-Flying Fish is a mobile game developed in Java and XML using Android Studio. Navigate your fish through dynamically generated obstacles, showcasing advanced algorithms and responsive gameplay for an engaging user experience on Android devices.
+Aquatic Ascent is a mobile game developed in Java and XML using Android Studio. Navigate your fish through dynamically generated obstacles, showcasing advanced algorithms and responsive gameplay for an engaging user experience on Android devices.
